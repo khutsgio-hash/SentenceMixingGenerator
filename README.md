@@ -1,2 +1,15 @@
-# SentenceMixingGenerator
-You can generate the sentence mixing voice lines by typing the sentence you want, it has no effort to generate this sentence mixing voiceline.
+# Sentence Mixing Generator
+
+# Requirements
+Python 3.12
+
+You don't need Python if you're only running the bat file.
+
+# Installation
+Windows Version
+If you’re not using Windows and prefer not to install Python, you can grab this portable version instead.
+
+Link: www.mediafire.com/file/7lx06x26cgzi81k/SentenceMixingGenerator.rar
+
+# Python Package
+If you've got Python on your computer, go ahead and install the packages listed in requirements.txt.
